@@ -1,0 +1,31 @@
+Fix the broken tests:
+ ☐ from aria-linter input
+ ☐ Get build from mark going.
+
+
+Rule: tableHasSummary. Level: A. Template: true
+Rule: tableMustHaveTh. Level: A. Template: true
+Rule: uniqueSummaryAttr. Level: A. Template: true
+Rule: contrastMinimum. Level: A. Template: false
+Rule: headingsHasContent. Level: A. Template: true
+Rule: fieldsetHasLegend. Level: A. Template: true
+Rule: labelWithoutElements. Level: A. Template: true
+Rule: inputImageHasAlt. Level: A. Template: true
+Rule: inputsHasValue. Level: AA. Template: true
+Rule: buttonsHasContent. Level: A. Template: true
+Rule: labelTextContent. Level: A. Template: true
+Rule: legendTextContent. Level: A. Template: true
+Rule: formUniqueId. Level: A. Template: true
+Rule: linksAtLeast4Chars. Level: A. Template: true
+Rule: frameTitleAttr. Level: A. Template: true
+Rule: frameUniqueTitle. Level: A. Template: true
+Rule: framesNotHiddenOrEmpty. Level: AA. Template: true
+Rule: missingH1. Level: A. Template: false
+Rule: maximumTwoH1. Level: A. Template: false
+Rule: hasTitle. Level: A. Template: false
+Rule: titleMoreThanOneWord. Level: A. Template: false
+Rule: htmlLang. Level: A. Template: false
+Rule: validLangAttr. Level: A. Template: false
+Rule: validAltText. Level: A. Template: true
+Rule: imgFileNotAltText. Level: A. Template: true
+Rule: presentationRole. Level: A. Template: true

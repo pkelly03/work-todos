@@ -1,0 +1,3 @@
+CSS Smells:
+ ☐ Introduced some styling in messages.properties contactEmail.password1b.hint and contactEmail.password1.existing.hint
+ ☐ For above, needed to add some customer hint text for #password1_described 

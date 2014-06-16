@@ -1,0 +1,4 @@
+Integrate accessibility stuff:
+ ☐ Quiz mark about permancy of generated js file that we can use it our tests
+ ☐ Maintain a list of files we can test that have been accessibility tested, that we cannot introduce regression on.
+ ☐ 
